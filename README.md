@@ -12,8 +12,8 @@ dasoon의 Github를 방문해주셔서 감사합니다.
 사용중인 커스텀 키보드 사양은 아래와 같습니다.
 
 
-Keyboard : Qwertykeys QK65
-Plate : Aluminum
+Keyboard : Qwertykeys QK65                                                                                   
+Plate : Aluminum                                                                                             
 Stabilizer : Qwertykeys defaults stabilizer (lubed) / Krytox GHv4 Thick
 Switch :  Cherry mx black (lubed) / krytox GPL 105g
 Spring : Cherry mx black Spring 65g
