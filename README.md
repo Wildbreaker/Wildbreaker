@@ -18,3 +18,8 @@ Switch :  Cherry mx black (lubed) / krytox GPL 105g
 Spring : Cherry mx black Spring 65g  
 Film : black foam film (0.3mm)  
 Keycaps : QK65 X Mars Keycaps  
+
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
